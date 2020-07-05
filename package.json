@@ -1,0 +1,24 @@
+{
+  "name": "svelte1",
+  "version": "1.0.0",
+  "description": "first svelte project",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackRob/svelte1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackRob/svelte1/issues"
+  },
+  "homepage": "https://github.com/BlackRob/svelte1#readme",
+  "devDependencies": {
+    "rollup": "^2.19.0",
+    "rollup-plugin-svelte": "^5.2.3",
+    "svelte": "^3.23.2"
+  }
+}
